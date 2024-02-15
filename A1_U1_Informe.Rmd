@@ -407,7 +407,7 @@ summary(mca)
 ```
 
 
-Conclusiones
+<h2>Conclusiones</h2>
 
 Basadas en el análisis realizado, se extraen las siguientes conclusiones clave:
 
@@ -415,3 +415,8 @@ Basadas en el análisis realizado, se extraen las siguientes conclusiones clave:
 2. Se identificaron segmentos de mercado distintos a través del análisis de conglomerados, lo que sugiere la posibilidad de desarrollar estrategias de marketing personalizadas.
 3. Las preferencias del mercado varían según la zona geográfica y el barrio, lo que resalta la importancia de adaptar la oferta de viviendas a las necesidades locales.
 
+
+<h2>Repositorio Github</h2>
+
+
+<a href="https://github.com/Jartpuro/A1U1_ModsEstadisticos"> Ver código completo</a>
